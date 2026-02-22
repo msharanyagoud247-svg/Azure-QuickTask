@@ -1,5 +1,10 @@
 # Azure QuickTask
 Cloud To-Do Task Manager – Microsoft Elevate Azure Internship
+## Live Demo
+
+You can view the running Azure QuickTask app online here:  
+Azure QuickTask Live - https://file-handler--msharanyagoud.replit.app
+
 # Azure QuickTask
 
 A simple cloud-based To-Do Task Manager built during Microsoft Elevate Azure Fundamentals Internship.  
