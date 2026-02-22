@@ -1,0 +1,18 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #f0f2f5;
+}
+
+.card {
+    max-width: 500px;
+    margin: auto;
+    border-radius: 15px;
+}
+
+#taskInput {
+    border-radius: 0 0 0 0;
+}
+
+.list-group-item {
+    font-size: 16px;
+}dhe
